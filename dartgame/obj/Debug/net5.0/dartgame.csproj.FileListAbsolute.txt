@@ -1,0 +1,16 @@
+C:\workspace\dartgame\dartgame\bin\Debug\net5.0\dartgame.exe
+C:\workspace\dartgame\dartgame\bin\Debug\net5.0\dartgame.deps.json
+C:\workspace\dartgame\dartgame\bin\Debug\net5.0\dartgame.runtimeconfig.json
+C:\workspace\dartgame\dartgame\bin\Debug\net5.0\dartgame.runtimeconfig.dev.json
+C:\workspace\dartgame\dartgame\bin\Debug\net5.0\dartgame.dll
+C:\workspace\dartgame\dartgame\bin\Debug\net5.0\ref\dartgame.dll
+C:\workspace\dartgame\dartgame\bin\Debug\net5.0\dartgame.pdb
+C:\workspace\dartgame\dartgame\obj\Debug\net5.0\dartgame.csproj.AssemblyReference.cache
+C:\workspace\dartgame\dartgame\obj\Debug\net5.0\dartgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dartgame\dartgame\obj\Debug\net5.0\dartgame.AssemblyInfoInputs.cache
+C:\workspace\dartgame\dartgame\obj\Debug\net5.0\dartgame.AssemblyInfo.cs
+C:\workspace\dartgame\dartgame\obj\Debug\net5.0\dartgame.csproj.CoreCompileInputs.cache
+C:\workspace\dartgame\dartgame\obj\Debug\net5.0\dartgame.dll
+C:\workspace\dartgame\dartgame\obj\Debug\net5.0\ref\dartgame.dll
+C:\workspace\dartgame\dartgame\obj\Debug\net5.0\dartgame.pdb
+C:\workspace\dartgame\dartgame\obj\Debug\net5.0\dartgame.genruntimeconfig.cache
